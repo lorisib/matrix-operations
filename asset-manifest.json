@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/matrix-operations/static/css/main.86eed213.css",
+    "main.js": "/matrix-operations/static/js/main.0ebb20c6.js",
+    "index.html": "/matrix-operations/index.html",
+    "main.86eed213.css.map": "/matrix-operations/static/css/main.86eed213.css.map",
+    "main.0ebb20c6.js.map": "/matrix-operations/static/js/main.0ebb20c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86eed213.css",
+    "static/js/main.0ebb20c6.js"
+  ]
+}
